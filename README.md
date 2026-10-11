@@ -37,7 +37,6 @@
 ## 🚀 Cara Menjalankan secara Lokal
 
 ```bash
-cd martabak-lab
 npm install
 npm run dev
 ```
